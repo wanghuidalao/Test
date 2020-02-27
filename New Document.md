@@ -1,1 +1,1 @@
-[图片]
+![avatar](C:\Users\Administrator\Desktop\1.jpg)
