@@ -1,1 +1,1 @@
-![avatar](C:\Users\Administrator\Desktop\1.jpg)
+![](https://i.imgur.com/d5fayv1.jpg)
